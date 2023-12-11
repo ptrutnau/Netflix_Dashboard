@@ -8,7 +8,7 @@ In the raw data, each TV show and movie has a show-id. Also you can see the titl
 I will use tableau to create an interactive dashboard of this dataset. There you can choose any Movie or Tv show to get the duration, rating, release year, date added, genre and description.
 
 ## Process 
-Before preparing the data for tableau, i used pandas to explorate and clean the data. Code is available [here!](https://github.com/ptrutnau/Netflix_Dashboard/blob/main/Netflix_dashboard/data_cleaning.ipynb)
+Before preparing the data for tableau, i used pandas to explore and clean the data. Code is available [here!](https://github.com/ptrutnau/Netflix_Dashboard/blob/main/Netflix_dashboard/data_cleaning.ipynb)
 
 ## Visulization
 Link to tableau: [here!](https://public.tableau.com/app/profile/pablo.trutnau/viz/Netflix_dashboard_17022915857530/Netflix)
